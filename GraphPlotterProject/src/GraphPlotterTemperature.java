@@ -1,7 +1,7 @@
 import javax.swing.*;
 import java.awt.*;
 public class GraphPlotterTemperature extends JPanel{
-   /** GraphPlotter vizaton boshtet koordinative me informatat qe merr nga klasa GraphPlotTest */
+   /** GraphPlotterTemperature vizaton boshtet koordinative me informatat qe merr nga klasa TemperatureTest */
    private int xPos,yPos; //koordinatat e qendres se sistemit
    private int y1,y2,y3,y4,y5,y6,xInt,yInt; //koordinatat y te pikave qe vendosen ne sistem dhe vlerat e temp
    private int axisLength; //gjatesia e boshteve
